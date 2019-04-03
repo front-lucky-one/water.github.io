@@ -727,7 +727,7 @@ th {
 .intro-section {
   position: relative; }
   .intro-section:before, .intro-section:after {
-    bottom: 4px !important; }
+    bottom: 3px !important; }
   .intro-section .slide-holder {
     position: relative;
     height: 700px; }
@@ -1021,7 +1021,7 @@ th {
   .contact-intro img {
     width: 100%; }
   .contact-intro:before, .contact-intro:after {
-    bottom: 4px !important; }
+    bottom: 3px !important; }
 
 .pumps-section {
   padding: 120px 0 180px 0; }
